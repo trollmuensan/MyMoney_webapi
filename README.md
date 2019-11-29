@@ -1,2 +1,3 @@
-# MyMoney_webapi
-webapi
+# Test Nodejs Stand Alone
+
+for test github blazor
